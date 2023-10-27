@@ -1,0 +1,17 @@
+Walk Up :90
+Walk Down :83
+Walk Left :81
+Walk Right :68
+Shoot Up / Menu Up :38
+Shoot Down / Menu Down :40
+Shoot Left / Menu Left :37
+Shoot Right / Menu Right :39
+Use Bomb :66
+Use First Item :85
+Use Second Item :73
+Drop First Item :49
+Drop Second Item :50
+Interact :32
+Pause :27
+Map :77
+Confirm :10
